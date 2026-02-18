@@ -1,5 +1,3 @@
-
-```markdown
 # 🎓 SmartCampus: Authentication Microservice
 ### *Group 1 | Distributed University Management System*
 
